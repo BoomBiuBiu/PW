@@ -453,7 +453,7 @@
 				INFOPLIST_FILE = PW/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = hk.com.hsbc.beluga;
+				PRODUCT_BUNDLE_IDENTIFIER = testPassword;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "226ef80d-cc74-4228-890b-e089683b7ef7";
 				PROVISIONING_PROFILE_SPECIFIER = "Beluga DEV";
@@ -469,7 +469,7 @@
 				INFOPLIST_FILE = PW/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = hk.com.hsbc.beluga;
+				PRODUCT_BUNDLE_IDENTIFIER = testPassword;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "4ea8fa24-0c38-49a1-bfa6-45525dec5b4a";
 				PROVISIONING_PROFILE_SPECIFIER = "Beluga UDID";
@@ -541,6 +541,7 @@
 				D0CA1DA21EF2244700EEAE41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0CA1DA31EF2244700EEAE41 /* Build configuration list for PBXNativeTarget "PWTests" */ = {
 			isa = XCConfigurationList;
@@ -549,6 +550,7 @@
 				D0CA1DA51EF2244700EEAE41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0CA1DA61EF2244700EEAE41 /* Build configuration list for PBXNativeTarget "PWUITests" */ = {
 			isa = XCConfigurationList;
@@ -557,6 +559,7 @@
 				D0CA1DA81EF2244700EEAE41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
